@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Collecte et protection des données
 
 You can use the [editor on GitHub](https://github.com/bigoclock/mentionslegales/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
